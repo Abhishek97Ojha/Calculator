@@ -1,4 +1,35 @@
-# Getting Started with Create React App
+# Calculator App
+
+This project was created using HTML, CSS , JS and React JS.
+
+## Hosted Link
+
+Open [https://calculator-five-woad.vercel.app/](https://calculator-five-woad.vercel.app/) to view it in your browser.
+
+## Github Repository
+
+Open [https://github.com/Abhishek97Ojha/Calculator](https://github.com/Abhishek97Ojha/Calculator) to view it in your browser.
+
+## Library Used :
+
+- React *("^18.2.0")*
+- React-Dom *("^18.2.0")*
+- React-Scripts *("5.0.1")*
+
+## Tools Used :
+
+- Props
+- States
+- Context Api
+
+**Functional Components are used in the app** (*Button, Display*)
+
+## Description :
+
+This **Calculator App** is built to solve Mathematical Operation/Calculations.
+Operators like **+**(Add), **-**(Subtract), **"*"**(Multiply) and **/**(Divide) are used to perform mathematical operations.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
