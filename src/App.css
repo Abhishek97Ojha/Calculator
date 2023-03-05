@@ -1,0 +1,49 @@
+.App {
+  color: white;
+  background-color: black;
+  text-align: center;
+  border: 2.5px solid #47476b;
+  width: 20.5rem;
+  height: 27.6rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  justify-content: center;
+  align-items: center;
+}
+.App .top{
+  /* border: 2px solid red; */
+  width: 100%;
+  height: 32.5%;
+  
+}
+.App div .up ,.App div .down{
+  /* border: 2px solid black; */
+  width: 100%;
+  height: 50%;
+  display: flex;
+  display: flex;
+  justify-content: center;
+  justify-content: center;
+  align-items: center;
+}
+.App .bottom{
+  /* border: 1px solid; */
+  display: flex;
+  justify-content: center;
+  justify-content: center;
+}
+.App .bottom .left{
+  /* border: 2px solid; */
+  width: 75%;
+  height: 100%;
+}
+.App .bottom .right{
+  /* border: 2px solid; */
+  width: 25%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
